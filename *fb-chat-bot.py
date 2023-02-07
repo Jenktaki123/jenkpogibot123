@@ -472,8 +472,8 @@ class ChatBot(Client):
                     sendQuery()
                 except:
                     pass
-            elif ("busy" in msg):
-                reply = "Nobody is busy. Only things are prioritized."
+            elif ("bot" in msg):
+                reply = "Bot karin putang Ina ka"
                 sendMsg()
             elif("help" in msg):
                 reply = "Sure! What should I do?"
@@ -654,11 +654,11 @@ class ChatBot(Client):
 
 
 cookies = {
-    "sb": "xasyYmAoy1tRpMGYvLxgkHBF",
-    "fr": "0NxayJuewRHQ30OX3.AWVJwIYNh0Tt8AJv6kSwDamhkoM.BiMrVd.Iu.AAA.0.0.BiMtVZ.AWXMVaiHrpQ",
-    "c_user": "100004851063843",
-    "datr": "xasyYs51GC0Lq5H5lvXTl5zA",
-    "xs": "5%3A4D0K4v409QTJtg%3A2%3A1666798070%3A-1%3A4136%3A%3AAcWkE5FISgOXPso7UE3h3iK94iY1DQVEamvREvdO7w"
+    "sb": "oM4BY9Lje41YqRMgxaHLGXKR",
+    "fr": "06VcgyQODzZ4eJKOj.AWUy1I2GGe973jwi-apsa-oT3yE.Bjupff.Mn.AAA.0.0.Bj4mNa.AWWxtNAToO0",
+    "c_user": "100089930678217",
+    "datr": "oM4BY2Vzu7gHjJrhjbqiHCP5",
+    "xs": "35%3A7gkLOz8-LBcw9g%3A2%3A1675780954%3A-1%3A-1"
 }
 
 
